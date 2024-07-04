@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { ArrowRight } from 'react-icons/ai';
+import { ArrowRight } from 'lucide-react';
 
 const StoryCard = ({ story }) => {
   return (
